@@ -1,4 +1,4 @@
-# factorial-kata-python
+# factorial-kata
 
 A kata created for python practice, using unittest.
 
